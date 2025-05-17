@@ -73,4 +73,5 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 
 ## 📈 Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonJunior12&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GersonJunior12)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GersonJunior12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
