@@ -26,7 +26,7 @@ To do
 
 ### ☁️ Cloud and Infrastructure
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&logo=icloud)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-01?style=for-the-badge&color=blue&logo=dailydotdev)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-01?style=for-the-badge&color=blue&logo=dailydotdev&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
