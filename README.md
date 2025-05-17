@@ -1,10 +1,32 @@
 ## Hi there 👋
 
-I'm Gerson, a software developer and technology lover with 10 years of experience. I current work at ClearSale as specialist developer and tech leader having then oportunity to work with many technologies in back-end, front-end, data bases, cloud and others.
+Hi, I'm Gerson, a software developer and technology lover with 10 years of experience. I current work at ![ClearSale](https://www.clear.sale/) as specialist developer and tech leader. I've been working with many technologies accross the years in back-end, front-end, data bases, cloud and others.
 
 ## 🚀 Expertise
 
-To do
+In all these 10 years of my career I've had the opportunity to work with several technologies, some older and others more modern. I've worked on projects ranging from Visual Basic 6 and Windows Forms to .NET 8 using Vue.JS.
+
+In past I worked developing an ERP that was responsible for managing all the industry steps. This system was responsible for creating the service order, buying raw material, controlling the stock, issuing tax note, selling the product and among other things.
+I also worked in a financial company that has a system that provides and approves credit to natural person. This system was very complex expecily in calculating the installments of the and in the managing of credit rules
+
+Today I work in a high availability application that protects e-commerce transactions against fraud. The complexity of this application required knowledge of several concepts such as: messaging to process asynchronous actions where we use RabbitMQ; high availability in the Azure cloud; monitoring with Elastic and Grafana.
+
+Not only developing project code but I'm also responsible for the entire project DevSecOps pipeline, the CI/CD, releases and part of cloud infrastructure are our responsability. So I ended up acquiring a lot of knowledge and certifications in this area as well.  
+
+As a technical leader I try to pass on the knowledge, engagement and independence to the developers on my team. I help them with questions and risk analysis of possible solutions. I conduct studies and define development patterns for the team with the aim of achieving synergy and similarity in code development. My role is also to provide a strategic vision for coordinators and managers of my area, understanding the demands viability, reporting technical problems clearly and helping in product decisions.
+
+Technologies currently used 
+- **Cloud**: Microsoft Azure
+- **CI/CD**: Azure DevOps
+- **App Hosted**: Virtual Machine, Azure App Service and Kubernetes
+- **Backend**: C# and .NET/.NET Framework
+- **Frontend**: Razor, jQuery and Vue.JS 
+- **DataBase**: Microsoft SQL Server and Redis
+- **Telemetria**: ElasticSearch and Grafana
+- **Mensageria**: RabbitMQ and Azure ServiceBus
+
+Other technologies knowledge
+- ASP 3.0, Visual Basic 6, VB.NET, Microsof Office, LINQ, jQuery, Ajax, WPF, Razor, SQL Server Profiler, Bootstrap, Windows Forms, Console Application, Windows Services, Web Forms, SOAP, REST, WCF, Web API, ASP.NET, ASP.NET MVC, HTML, CSS, JavaScript.
 
 ## 💻 Tech Stack
 ### </> Program Languages
