@@ -71,3 +71,4 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=logmein&logoColor=white)](https://www.linkedin.com/in/gerson-silva-junior-2b38105b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gerson_jr/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonJunior12&layout=compact)
