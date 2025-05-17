@@ -31,7 +31,7 @@ To do
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=mediumpurple)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![IIS](https://img.shields.io/badge/Internet%20Information%20Services%20(IIS)-01?style=for-the-badge&color=blue)
+![IIS](https://img.shields.io/badge/IIS-01?style=for-the-badge&color=blue)
 
 ### ✚ Others
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
