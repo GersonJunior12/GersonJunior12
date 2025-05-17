@@ -15,7 +15,7 @@ Not only developing project code but I'm also responsible for the entire project
 
 As a technical leader I try to pass on the knowledge, engagement and independence to the developers on my team. I help them with questions and risk analysis of possible solutions. I conduct studies and define development patterns for the team with the aim of achieving synergy and similarity in code development. My role is also to provide a strategic vision for coordinators and managers of my area, understanding the demands viability, reporting technical problems clearly and helping in product decisions.
 
-#### Technologies currently used 
+#### Current technologies
 - **Cloud**: Microsoft Azure
 - **CI/CD**: Azure DevOps
 - **App Hosted**: Virtual Machine, Azure App Service and Kubernetes
