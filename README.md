@@ -29,18 +29,18 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 - ASP 3.0, Visual Basic 6, VB.NET, Microsof Office, LINQ, jQuery, Ajax, WPF, Razor, SQL Server Profiler, Bootstrap, Windows Forms, Console Application, Windows Services, Web Forms, SOAP, REST, WCF, Web API, ASP.NET, ASP.NET MVC, HTML, CSS, JavaScript.
 
 ## 💻 Tech Stack
-### </> Program Languages
+#### </> Program Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logoColor=white&logo=csharp)
 ![Transact-SQL](https://img.shields.io/badge/Transact%20SQL-01?style=for-the-badge&color=orange&logo=)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logoColor=white&logo=purescript)
 
-### 📚 Data Bases
+#### 📚 Data Bases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚡ Frameworks and Libraries
+#### ⚡ Frameworks and Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/.NET%20Core-01?style=for-the-badge&logo=.net&logoColor=white&color=rgb(92%2C%2045%2C%20145))
 ![.Net Framework](https://img.shields.io/badge/.NET%20Framework-01?style=for-the-badge&logo=.net&logoColor=white&color=rgb(92%2C%2045%2C%20145))
@@ -48,7 +48,7 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ☁️ Cloud and Infrastructure
+#### ☁️ Cloud and Infrastructure
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logoColor=white&logo=icloud)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-01?style=for-the-badge&color=blue&logo=dailydotdev&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -57,7 +57,7 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-01?style=for-the-badge&color=blue)
 
-### ✚ Others
+#### ✚ Others
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,8 +67,8 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gersonjunior12)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-silva-junior-2b38105b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gerson_jr/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gersonjunior12)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-silva-junior-2b38105b/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gerson_jr/)
 
 
