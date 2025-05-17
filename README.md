@@ -20,6 +20,8 @@ To do
 
 ### ⚡ Frameworks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net Core](https://img.shields.io/badge/.NET%20Core-01?style=for-the-badge&logo=.net&logoColor=white&color=rgb(92%2C%2045%2C%20145))
+![.Net Framework](https://img.shields.io/badge/.NET%20Framework-01?style=for-the-badge&logo=.net&logoColor=white&color=rgb(92%2C%2045%2C%20145))
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### ☁️ Cloud and Infrastructure
