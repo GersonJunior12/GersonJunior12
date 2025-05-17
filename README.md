@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Gerson, a software developer and technology lover with 10 years of experience. I current work at ![ClearSale](https://www.clear.sale/) as specialist developer and tech leader. I've been working with many technologies accross the years in back-end, front-end, data bases, cloud and others.
+Hi, I'm Gerson, a software developer and technology lover with 10 years of experience. I current work at [ClearSale](https://www.clear.sale/) as specialist developer and tech leader. I've been working with many technologies accross the years in back-end, front-end, data bases, cloud and others.
 
 ## 🚀 Expertise
 
