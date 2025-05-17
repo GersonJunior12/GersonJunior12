@@ -8,7 +8,7 @@ To do
 
 ## 💻 Tech Stack
 ### </> Program Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&logo=c)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logoColor=white&logo=c)
 ![Transact-SQL](https://img.shields.io/badge/Transact%20SQL-01?style=for-the-badge&color=orange&logo=)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
