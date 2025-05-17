@@ -15,7 +15,7 @@ Not only developing project code but I'm also responsible for the entire project
 
 As a technical leader I try to pass on the knowledge, engagement and independence to the developers on my team. I help them with questions and risk analysis of possible solutions. I conduct studies and define development patterns for the team with the aim of achieving synergy and similarity in code development. My role is also to provide a strategic vision for coordinators and managers of my area, understanding the demands viability, reporting technical problems clearly and helping in product decisions.
 
-### Technologies currently used 
+#### Technologies currently used 
 - **Cloud**: Microsoft Azure
 - **CI/CD**: Azure DevOps
 - **App Hosted**: Virtual Machine, Azure App Service and Kubernetes
@@ -25,7 +25,7 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 - **Telemetria**: ElasticSearch and Grafana
 - **Mensageria**: RabbitMQ and Azure ServiceBus
 
-### Other technologies knowledge
+#### Other technologies knowledge
 - ASP 3.0, Visual Basic 6, VB.NET, Microsof Office, LINQ, jQuery, Ajax, WPF, Razor, SQL Server Profiler, Bootstrap, Windows Forms, Console Application, Windows Services, Web Forms, SOAP, REST, WCF, Web API, ASP.NET, ASP.NET MVC, HTML, CSS, JavaScript.
 
 ## 💻 Tech Stack
@@ -71,4 +71,6 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=logmein&logoColor=white)](https://www.linkedin.com/in/gerson-silva-junior-2b38105b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gerson_jr/)
 
+## 📈 Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonJunior12&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GersonJunior12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
