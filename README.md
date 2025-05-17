@@ -67,9 +67,7 @@ As a technical leader I try to pass on the knowledge, engagement and independenc
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ## 🌐 Socials:
-<a href="[http://example.com/](https://medium.com/@gersonjunior12)" target="_blank">
-  ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)
-</a>
+<a href="[http://example.com/](https://medium.com/@gersonjunior12)" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-silva-junior-2b38105b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gerson_jr/)
 
